@@ -1,6 +1,6 @@
 # Tetris for Pygame
 
-![[showcase.gif]]
+[showcase.gif]
 
 ## Dependencies
 * Python
